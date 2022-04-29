@@ -15,3 +15,5 @@ Linux 系统下，使用 I2C 接口，读写 SSD1327 OLED 屏的例程。
 * 官网资料：https://www.waveshare.net/shop/1.5inch-OLED-Module.htm
 
 在 Linux 下执行 `make` 编译。执行后的显示效果如下：
+
+![](https://github.com/exbob/ssd1327_demo/blob/main/.image/demo.jpg)
